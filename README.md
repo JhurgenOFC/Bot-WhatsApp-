@@ -107,21 +107,12 @@ npm start
 </details>
 
 ---
-### **`➮ Enlaces útiles`**
-
-<details>
- <summary><b> 🜸 Enlaces Oficiales </b></summary>
-
- * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/CDw7hpI30WjCyKFAVLHNhZ)
-* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa)
-</details>
 
 <details>
 <summary><b> ✰ Contáctos</b></summary>
 
-* WhatsApp: [`Aquí`](https:/Wa.me/5212202410659)
-* Correo: [`Aquí`](thekingdestroy507@gmail.com)
+* WhatsApp: [`Aquí`](https:/Wa.me/584242873318)
+* Correo: [`Aquí`](gamerjhurgen@gmail.com)
 
 </details>
 
@@ -141,41 +132,3 @@ href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" hei
 * Comunidad : [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
 * Contacto : [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1)
 
-</details>
-
----
-
-### **`✦ AKIRAX ✦`**
-
-<a
-href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1748713078525.jpeg" height="125px"></a>
-
-<details>
- <summary><b> ❒ Servidor Akirax</b></summary>
-
-* Dashboard : [`Dash`](https://home.akirax.net)
-* Panel : [`Panel`](https://console.akirax.net)
-* Canal de WhatsApp : [`Aqui`](https://whatsapp.com/channel/0029VbBCchVDJ6H6prNYfz2z)
-* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
-
-</details>
-
----
-
-### **`❀ Colaboradores`**
-<a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-King-Destroy/Yuki_Suou-Bot" /> 
-</a>
-
-### **`ᥫ᭡ Propietario`**
-<a
-href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="
-ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
-
-### **`🜸 Créditos`**
-<a href="https://github.com/DevAlexJs" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/DevAlexJs.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
-</a>
-<a href="https://github.com/BrunoSobrino" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="Bruno Ofc" style="border-radius: 50%;"/>
-</a>
