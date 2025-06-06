@@ -4,7 +4,7 @@
 
  align="center">✦ Genjhur-BOT ✦</h1>
 
- <"https://files.catbox.moe/uwmwcy.png">
+  <img src= "https://files.catbox.moe/uwmwcy.png">
     </p>
 
 ### **`❕️ Información importante`**
